@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="sg-pin" x1="0.15" y1="0" x2="0.85" y2="1">
+      <stop offset="0" stop-color="#2A6FDB"/>
+      <stop offset="0.55" stop-color="#1FA3E8"/>
+      <stop offset="1" stop-color="#2EE6F2"/>
+    </linearGradient>
+    <linearGradient id="sg-shine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g transform="rotate(-10 200 200)">
+    <path d="M200 372 C150 312 62 252 62 170 A138 138 0 1 1 338 170 C338 252 250 312 200 372 Z" fill="url(#sg-pin)"/>
+    <path d="M92 132 A116 116 0 0 1 270 66" fill="none" stroke="url(#sg-shine)" stroke-width="14" stroke-linecap="round"/>
+    <g fill="none" stroke="#0A1426" stroke-width="18" stroke-linecap="round">
+      <circle cx="200" cy="170" r="84"/>
+      <ellipse cx="200" cy="170" rx="36" ry="84"/>
+      <line x1="116" y1="170" x2="284" y2="170"/>
+      <line x1="128" y1="126" x2="272" y2="126"/>
+      <line x1="128" y1="214" x2="272" y2="214"/>
+    </g>
+    <circle cx="200" cy="318" r="9" fill="#0A1426"/>
+  </g>
+</svg>
