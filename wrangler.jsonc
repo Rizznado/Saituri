@@ -1,0 +1,11 @@
+{
+  // Cloudflare Worker that serves the static site in ./public
+  // "name" must match the Worker's name in the Cloudflare dashboard.
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "saituri",
+  "compatibility_date": "2026-11-02",
+  "assets": {
+    "directory": "./public",
+    "not_found_handling": "404-page"
+  }
+}
