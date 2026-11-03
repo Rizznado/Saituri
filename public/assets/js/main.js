@@ -285,7 +285,6 @@
 (function(){
   var S=[
     {u:'mountime',n:'Mountime Restaurant',r:'4.8',c:'377',ck:'რესტორანი',ce:'Restaurant',kk:'საათები',ke:'Hours',vk:'ღიაა 23:00-მდე',ve:'Open until 23:00'},
-    {u:'mere',n:'Restaurant Mere',r:'4.5',c:'211',ck:'რესტორანი',ce:'Restaurant',kk:'საათები',ke:'Hours',vk:'ღიაა 20:00-მდე',ve:'Open until 20:00'},
     {u:'egrisi',n:'<span class="ka">ეგრისი</span><span class="en">Egrisi</span>',ck:'რესტორანი და ბაღი',ce:'Restaurant & garden',kk:'საათები',ke:'Hours',vk:'ყოველდღე 10:00–23:00',ve:'Daily 10:00–23:00'},
     {u:'archeoni',n:'Archeoni Studio',ck:'სამკაულების სახელოსნო',ce:'Jewellery studio',kk:'შეკვეთა',ke:'Orders',vk:'ონლაინ, 24/7',ve:'Online, 24/7'},
     {u:'blackeagle',n:'Black Eagle BJJ',r:'5.0',c:'46',ck:'ჯიუ-ჯიცუს კლუბი',ce:'Jiu-jitsu club',kk:'ვარჯიში',ke:'Training',vk:'ორშ–შაბ',ve:'Mon–Sat'}
